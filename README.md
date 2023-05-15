@@ -32,9 +32,11 @@ TELEGRAM_CHAT_ID=123
 Создайте бота у [@BotFather](https://telegram.me/BotFather)
 
 ### Как получить `TELEGRAM_CHAT_ID`
-Это ссылка на телеграм канал, типа @telegram
+Напишите в Telegram специальному боту: [@userinfobot](https://telegram.me/userinfobot)
 
 ## Как запустить
+Напишите боту один раз. Пока вы не напишете ему, у вас будет возникать ошибка. Боты не могут писать первыми.
+
 Запуск на Linux(Python 3) или Windows:
 
 ```bash
